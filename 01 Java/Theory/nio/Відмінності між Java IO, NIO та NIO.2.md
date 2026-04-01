@@ -69,3 +69,7 @@
 ---
 
 # Connections:
+- [[Java NIO API]]
+- [[Робота з файлами через Java NIO (Буфери та Канали)]]
+- [[Робота з файлами через Java NIO2]]
+- [[Практика роботи з FileChannel та ByteBuffer у Java NIO]]

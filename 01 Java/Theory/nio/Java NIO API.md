@@ -77,3 +77,7 @@
 ---
 
 # Connections:
+- [[Робота з файлами через Java NIO2]]
+- [[Робота з файлами через Java NIO (Буфери та Канали)]]
+- [[Практика роботи з FileChannel та ByteBuffer у Java NIO]]
+- [[Відмінності між Java IO, NIO та NIO.2]]

@@ -126,3 +126,8 @@
 ---
 
 # Connections:
+- [[flip, clear, compact]]
+- [[Java NIO API]]
+- [[Робота з файлами через Java NIO2]]
+- [[Практика роботи з FileChannel та ByteBuffer у Java NIO]]
+- [[Відмінності між Java IO, NIO та NIO.2]]
